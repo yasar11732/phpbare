@@ -1,0 +1,1 @@
+php -r "copy('.env.example','.env');"
